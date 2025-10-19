@@ -13,10 +13,10 @@
 
 [![Focus](https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20EDR-critical)](#)
 [![Tools](https://img.shields.io/badge/Tools-QRadar%20%7C%20Splunk%20%7C%20CrowdStrike-blueviolet)](#)
-[![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)](#)
+[![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK%20%7C%20NIST%20800--61-red)](#)
 [![Threat Intel](https://img.shields.io/badge/Threat_Intel-VirusTotal%20%7C%20AbuseIPDB%20%7C%20Talos-informational)](#)
-[![Certification](https://img.shields.io/badge/Certification-Security%2B-success)](#)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20Russian-darkblue)](#)
+[![Certification](https://img.shields.io/badge/Certification-CompTIA%20Security%2B-success)](#)
+[![Language](https://img.shields.io/badge/Language-English%20%26%20Russian-darkblue)](#)
 
 </p>
 
@@ -57,7 +57,9 @@ My goal is to **detect, analyze, and neutralize** threats before they escalate.
 | **Threat Intelligence** | VirusTotal · Talos · AbuseIPDB · GreyNoise |
 | **Frameworks** | MITRE ATT&CK · NIST 800-61 |
 | **Scripting & Analysis** | PowerShell · Python (Basic for parsing & automation) |
+| **Automation / Scripting** | PowerShell · Python (automation & enrichment scripts) |
 
+*Tools selected for realism — all case examples follow MITRE ATT&CK mapping.*
 ---
 
 ## ⚡ Highlighted Skills
@@ -74,7 +76,7 @@ My goal is to **detect, analyze, and neutralize** threats before they escalate.
 
 ## 🧭 My Approach to Security
 
-> “A good SOC analyst doesn’t chase alerts — they connect the dots.”  
+> “A good SOC analyst doesn’t chase alerts — they connect the dots and build context.”  
 
 I believe in:
 - Clarity in documentation  
@@ -85,7 +87,7 @@ I believe in:
 ---
 
 ## 📫 Connect with Me
-
+Feel free to reach out for SOC collaboration, blue team projects, or technical discussions.
 <p align="center">
   <a href="https://linkedin.com/in/alexanderisoev">
     <img src="https://img.shields.io/badge/LinkedIn-Alexander%20Isoev-blue?style=flat-square&logo=linkedin" />
