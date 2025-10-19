@@ -59,7 +59,8 @@ My goal is to **detect, analyze, and neutralize** threats before they escalate.
 | **Scripting & Analysis** | PowerShell · Python (Basic for parsing & automation) |
 | **Automation / Scripting** | PowerShell · Python (automation & enrichment scripts) |
 
-*Tools selected for realism — all case examples follow MITRE ATT&CK mapping.*
+<sub>🧠 *Tools selected for realism — all case examples follow MITRE ATT&CK mapping.*</sub>
+
 ---
 
 ## ⚡ Highlighted Skills
