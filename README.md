@@ -42,7 +42,7 @@ My goal is to **detect, analyze, and neutralize** threats before they escalate.
 
 | Repository | Description | Tools / Focus |
 |-------------|--------------|----------------|
-| [🛰️ **SOC-Incident-Reports**](https://github.com/PurePootato/SOC-Incident-Reports) | Real-world style SOC investigations — log triage, MITRE ATT&CK mapping, and containment recommendations | `QRadar`, `Splunk`, `Suricata`, `CrowdStrike`, `MITRE ATT&CK` |
+| [🛡️ **SOC-Incident-Reports**](https://github.com/PurePootato/SOC-Incident-Reports) | Real-world style SOC investigations — log triage, MITRE ATT&CK mapping, and containment recommendations | `QRadar`, `Splunk`, `Suricata`, `CrowdStrike`, `MITRE ATT&CK` |
 | [📁 **Cybersecurity Portfolio**](https://github.com/PurePootato/portfolioAlexanderIsoev/blob/main/SOC_Portfolio_Alexander__Isoev.pdf) | Visual portfolio showcasing my SOC workflow, PowerShell investigations, and documented incidents. | `SOC Workflow`, `Incident Reports`, `SIEM + EDR` |
 
 ---
