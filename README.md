@@ -1,7 +1,9 @@
 <!-- 👨‍💻 Alexander Isoev | SOC / Cybersecurity Analyst -->
 <p align="center">
-  <img src="https://github.com/PurePootato/SOC-Incident-Reports/blob/main/real_time_hacker_attack_map.gif" width="700" alt="Real-time Hacker Attack Map Animation">
+  <img src="https://github.com/PurePootato/SOC-Incident-Reports/blob/main/real_time_hacker_attack_map.gif" width="700" alt="Real-time global cyber attack visualization">
 </p>
+
+
 
 <h1 align="center">👋 Hi, I'm Alexander Isoev</h1>
 
