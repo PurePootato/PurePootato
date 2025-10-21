@@ -95,12 +95,11 @@ I believe in:
 ## 📫 Connect with Me
 Feel free to reach out for SOC collaboration, blue team projects, or technical discussions.
 <p align="center">
-  <a href="https://linkedin.com/in/alexanderisoev">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexander%20Isoev-blue?style=flat-square&logo=linkedin" />
+  <a href="https://linkedin.com/in/alexanderisoev" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexander%20Isoev-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a class="btn" 
-   href="https://mail.google.com/mail/?view=cm&fs=1&to=alexanderisoevf@gmail.com&su=Hello%20Alexander&body=Hi%20Alexander%2C"
-   target="_blank" rel="noopener">✉️ Email</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexanderisoevf@gmail.com&su=Hello%20Alexander&body=Hi%20Alexander%2C" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-alexanderisoevf%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
